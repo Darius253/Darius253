@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Android mobile application using Kotlin and jetpack compose<br>👯 I’m looking to work on projects in mobile development, web development and IOT development <br>🤝 I’m looking to help  develop solutions through software engineering <br>🌱 I’m currently learning React.js<br>💬 Ask me about anything relating to Flutter, Kotlin and Jetpack Compose <br>⚡ Fun fact I support Manchester United and I use Google and AI to code
+🔭 I’m currently working on a Kotlin jetpack compose (Android) mobile application that helps monitor blood pressure and connects to blood pressure devices<br>👯 I’m looking to work on projects in mobile development(Kotlin and Flutter), web development and IOT development <br>🤝 I’m looking to help  develop solutions through software engineering <br>🌱 I’m currently learning React.js<br>💬 Ask me about anything relating to Flutter, Kotlin and Jetpack Compose <br>⚡ Fun fact I support Manchester United and I use Google and AI to code
 
 
 ## 🌐 Socials:
